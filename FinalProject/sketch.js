@@ -3,7 +3,7 @@ let img;
 
 function setup() {
   var cnv = createCanvas(440, 440);
-cnv.parents('sketch=holder);
+cnv.parents('sketch-holder');
 }
 
 
