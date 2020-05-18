@@ -1,4 +1,9 @@
 h1 {
+  text-align: center; 
 color: green;
 left: 400px;
+}
+
+h2 {
+text-align: center; 
 }
