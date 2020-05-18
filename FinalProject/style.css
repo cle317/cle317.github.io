@@ -11,4 +11,29 @@ text-align: center;
 #standin {
  postion: relative;
   left: 500px;
+  top: 100px
+}
+
+
+#animals {
+ postion: relative;
+  right: 35px;
+}
+
+
+#before {
+ postion: relative;
+  left: 500px;
+}
+
+
+#template {
+ postion: relative;
+  left: 35px;
+}
+
+
+#earth {
+ postion: relative;
+  left: 500px;
 }
