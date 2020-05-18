@@ -2,14 +2,14 @@
 let img;
 
 function setup() {
-  createCanvas(440, 440);
-img = loadImage('template.png');
+  var cnv = createCanvas(440, 440);
+cnv.parents('sketch=holder);
 }
 
 
 function draw() {
   background(40,60,225);
-fill(1100,200,10), 
+fill(100,200,10), 
 ellipse( mouseX, mouseY, 100, 100);
   image(img,0,0);
 }
