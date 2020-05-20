@@ -2,8 +2,9 @@
 let img;
 
 function setup() {
-  var cnv = createCanvas(440, 440);
+ var cnv = createCanvas(440, 440);
 cnv.parent('sketch-holder');
+
 }
 
 
